@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-🌸Hello, I'm Esen. <br>🎓I'm a recent graduate computer engineer. <br>🤸‍♂️Thanks to my interest in both web development and data science, I possess a versatile perspective. <br>💻I constantly enhance myself through education and individual projects. <br>🙌I enjoy working within a team because I believe that together we can achieve greater successes. <br>✨I aspire to continue learning in a career intertwined with technology.
+🌸Hello, I'm Esen. <br>🎓I'm computer engineer. <br>🤸‍♂️Thanks to my interest in both web development and data science, I have a versatile perspective. <br>💻I constantly improve myself through education and individual projects. <br>🙌I enjoy working within a team because I believe that we can achieve greater successes together. <br>✨I aspire to continue learning in a career which is intertwined with technology.
 <div align="center">
 🌐 Socials:
 
